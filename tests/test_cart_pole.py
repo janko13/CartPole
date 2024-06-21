@@ -2,7 +2,7 @@ import pytest
 from io import StringIO
 import sys
 
-from cart_pole import CartPole
+from ..cart_pole import CartPole
 
 
 def test_initialization():
